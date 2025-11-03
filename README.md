@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pernapati-Akhil
 - 👀 I’m interested in VLSI_Design
-- 🌱 I’m currently working as design engineer in Wafer space
 - 💞️ I’m looking to collaborate on Verilog and SystemVerilog
 - 📫 How to reach me AkhilPernapati :- email: akhilpernapati@gmail.com
 
